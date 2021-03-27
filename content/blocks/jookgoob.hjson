@@ -4,4 +4,4 @@ health: 160
 size: 2
 tracks: [game1]
 category: logic
-buildVisibility: true
+buildVisibility: shown
