@@ -1,0 +1,5 @@
+name: jukeustry-extension-test
+displayName: Jukeustry Extension Test
+author: Farmer Thanos
+minGameVersion: 126.1
+version: 0.1
