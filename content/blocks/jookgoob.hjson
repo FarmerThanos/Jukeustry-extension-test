@@ -2,4 +2,4 @@ type: jukeustry-JukeboxBlock
 localizedName: jookgoob
 health: 160
 size: 2
-tracks: {game1}
+tracks: [game1]
